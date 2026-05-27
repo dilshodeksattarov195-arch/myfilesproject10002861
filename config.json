@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtervecrypt",
+        "uuid": 19981224,
+        "checksum": "ra8ftq"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
